@@ -12,11 +12,11 @@ This project demonstrates a GPT-2 fine-tuned language model designed to automate
 
 ## 🏗️ Project Structure
 - AMD-Customer Support Bot/
-├── Final_Model/         # Final Model
-├── venv/                      # Virtual environment folder (for dependencies)
-├── data.json               # JSON Source File 
-├── RunModel.ipynb   # Script to access the bot and use it
-├── Pipeline/                # contains the complete pipeline of the model   
+- ├── Final_Model/         # Final Model
+- ├── venv/                      # Virtual environment folder (for dependencies)
+- ├── data.json               # JSON Source File 
+- ├── RunModel.ipynb   # Script to access the bot and use it
+- ├── Pipeline/                # contains the complete pipeline of the model   
 
 
 ## Specifications
