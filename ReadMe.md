@@ -1,4 +1,4 @@
-# 🤖 GPT-2 Based Customer Support Automation System (AMD)
+# 🤖 LLM-Based Customer Support Automation System (AMD)
 
 This project demonstrates a GPT-2 fine-tuned language model designed to automate and enhance AMD's customer support. It enables the model to handle domain-specific customer queries efficiently, providing relevant, fluent, and context-aware responses.
 
